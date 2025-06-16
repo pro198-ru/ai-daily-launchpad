@@ -1,10 +1,7 @@
 import React, { useState, useEffect, Suspense, lazy } from 'react';
 import './App.css';
-import MoodGoalInput from './components/MoodGoalInput';
-import TaskList from './components/TaskList';
-import BriefingOutput from './components/BriefingOutput';
 
-const CompanionBot = lazy(() => import('./CompanionBot'));
+const CompanionBot = lazy(() => import('./components/CompanionBot'));
 
 const encouragements = [
   "You're smashing it! 🚀",
@@ -209,9 +206,7 @@ function App() {
         >
           Switch to {dark ? 'Light' : 'Dark'} Mode
         </button>
-        <MoodGoalInput />
-        <TaskList />
-        <BriefingOutput />
+        <CompanionBot />
         <section>
           <div style={styles.sectionTitle}>Tasks</div>
           <input

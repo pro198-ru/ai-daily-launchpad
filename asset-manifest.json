@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ai-daily-launchpad/static/css/main.e6c13ad2.css",
+    "main.js": "/ai-daily-launchpad/static/js/main.4aa0383c.js",
+    "static/js/453.ff9a11ce.chunk.js": "/ai-daily-launchpad/static/js/453.ff9a11ce.chunk.js",
+    "index.html": "/ai-daily-launchpad/index.html",
+    "main.e6c13ad2.css.map": "/ai-daily-launchpad/static/css/main.e6c13ad2.css.map",
+    "main.4aa0383c.js.map": "/ai-daily-launchpad/static/js/main.4aa0383c.js.map",
+    "453.ff9a11ce.chunk.js.map": "/ai-daily-launchpad/static/js/453.ff9a11ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4aa0383c.js"
+  ]
+}

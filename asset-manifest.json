@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/ai-daily-launchpad/static/css/main.e6c13ad2.css",
-    "main.js": "/ai-daily-launchpad/static/js/main.4aa0383c.js",
+    "main.css": "/ai-daily-launchpad/static/css/main.2b083983.css",
+    "main.js": "/ai-daily-launchpad/static/js/main.468a56e5.js",
+    "static/js/806.882aeb4e.chunk.js": "/ai-daily-launchpad/static/js/806.882aeb4e.chunk.js",
     "static/js/453.ff9a11ce.chunk.js": "/ai-daily-launchpad/static/js/453.ff9a11ce.chunk.js",
     "index.html": "/ai-daily-launchpad/index.html",
-    "main.e6c13ad2.css.map": "/ai-daily-launchpad/static/css/main.e6c13ad2.css.map",
-    "main.4aa0383c.js.map": "/ai-daily-launchpad/static/js/main.4aa0383c.js.map",
+    "main.2b083983.css.map": "/ai-daily-launchpad/static/css/main.2b083983.css.map",
+    "main.468a56e5.js.map": "/ai-daily-launchpad/static/js/main.468a56e5.js.map",
+    "806.882aeb4e.chunk.js.map": "/ai-daily-launchpad/static/js/806.882aeb4e.chunk.js.map",
     "453.ff9a11ce.chunk.js.map": "/ai-daily-launchpad/static/js/453.ff9a11ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.4aa0383c.js"
+    "static/css/main.2b083983.css",
+    "static/js/main.468a56e5.js"
   ]
 }

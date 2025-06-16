@@ -1,3 +1,4 @@
+/* Default CRA styles */
 .App {
   text-align: center;
 }
@@ -32,7 +33,41 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+/* Bot chat interface styles */
+.bot-window {
+  border: 1px solid #ccc;
+  padding: 1em;
+  margin: 1em 0;
+  max-width: 400px;
+  background: #fff;
+  border-radius: 8px;
+}
+
+.messages {
+  min-height: 80px;
+  margin-bottom: 1em;
+}
+
+.input-bar {
+  display: flex;
+  gap: 0.5em;
+}
+
+input {
+  flex: 1;
+  padding: 0.5em;
+}
+
+.bot {
+  color: #4a90e2;
+}
+
+.user {
+  color: #222;
 }
